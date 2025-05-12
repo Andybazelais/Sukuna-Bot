@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['918473959399', 'SUKUNA', true],
-  ['918822357603', 'GOJO', true], 
+  ['50955343978', 'SUKUNA', true],
+  ['50955343978', 'GOJO', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['918473959399','918822357603','918805226594','919370480532'] 
-global.prems = ['918473959399','918822357603','918805226594','919370480532']
+global.mods = ['50955343978'] 
+global.prems = ['50955343978']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -47,10 +47,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝙎𝙪𝙠𝙪𝙣𝙖 𝘽𝙤𝙩'
+global.botname = '𝙎wiftt 𝘽𝙤𝙩'
 global.premium = 'true'
-global.packname = 'Sukuna┃ᴮᴼᵀ' 
-global.author = '𝘽𝙮: 𝙏𝙚𝙖𝙢 𝙒𝙝𝙖𝙩𝙨 𝘽𝙤𝙩' 
+global.packname = 'Swifft┃ᴮᴼᵀ' 
+global.author = '𝘽𝙮: SWIFTTANDY 𝘽𝙤𝙩' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/xaps444\n' 
 global.dygp = 'https://chat.whatsapp.com/FWZwvQBG40pI4KyQ2lEdTr'
 global.fgsc = 'https://github.com/RSxGamerz/Sukuna-Bot' 
